@@ -1,2 +1,2 @@
-# GymFit
-GymFit is a full-stack web app for booking and managing fitness sessions. Users can schedule workouts, track reservations, and update profiles. Coaches can manage availability and oversee bookings through a clean, intuitive interface.
+🚀 GymFit – Training Session Booking System
+GymFit is a full-stack web application for booking and managing fitness sessions. Users can schedule workouts, view bookings, and edit profiles. Admins/coaches manage availability and oversee reservations.
