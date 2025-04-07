@@ -8,7 +8,7 @@ GymFit is a full-stack web application for booking and managing fitness sessions
 - **Database**: [PostgreSQL](https://www.postgresql.org/) + [Prisma ORM](https://www.prisma.io/)
 - **Authentication**: [NextAuth.js](https://next-auth.js.org/)
 - **Styling**: Tailwind CSS, React MUI, CSS
-- **Deployment**: [Vercel](https://vercel.com/)
+- **Deployment**: [Vercel](https://vercel.com/), Paddle
 
 ---
 
