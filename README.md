@@ -1,10 +1,25 @@
-# 💪🏼GymFit – Training Session Booking System
-GymFit is a full-stack web application for booking and managing fitness sessions. Users can schedule workouts, view bookings, and edit profiles. Admins/coaches manage availability and oversee reservations.
+# ᕙ( ͡° ͜ʖ ͡°)ᕗ Wellness Session Booking Platform
+A full-stack web application for booking and managing wellness services such as massage, yoga, therapy, and more.
 
-( ◡̀_◡́)ᕤ
-## 🛠️ Tech Stack
+Clients can:
+- Discover providers by service, location, and language
+- Book sessions directly via calendar interface
+- View and manage upcoming bookings
+- Save favorites and leave reviews
 
-- **Frontend & Backend**: [Next.js](https://nextjs.org/), React
+Providers can:
+- Create and edit their service profile
+- Add available time slots
+- Manage bookings and view earnings
+- Communicate with clients
+  
+ദ്ദി（• ˕ •マ.ᐟ
+[Prototype in figma](https://www.figma.com/proto/AXtAYovcewSI7BmzWOVyLq/Untitled?node-id=0-1&t=ke2asqaztJx0g8PE-1)
+
+## Tech Stack
+
+- **Frontend & Backend**: React
+- **Backend**: Java
 - **Database**: [PostgreSQL](https://www.postgresql.org/) + [Prisma ORM](https://www.prisma.io/)
 - **Authentication**: [NextAuth.js](https://next-auth.js.org/)
 - **Styling**: Tailwind CSS, React MUI, CSS
@@ -12,7 +27,7 @@ GymFit is a full-stack web application for booking and managing fitness sessions
 
 ---
 
-## 🚧 Prerequisites
+## Prerequisites
 
 - [Node.js](https://nodejs.org/) v18+
 - [npm](https://www.npmjs.com/) or [pnpm](https://pnpm.io/)
