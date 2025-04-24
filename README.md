@@ -1,7 +1,18 @@
-# 💪🏼GymFit – Training Session Booking System
-GymFit is a full-stack web application for booking and managing fitness sessions. Users can schedule workouts, view bookings, and edit profiles. Admins/coaches manage availability and oversee reservations.
+# ( ◡̀_◡́)ᕤ  Wellness Session Booking Platform
+A full-stack web application for booking and managing wellness services such as massage, yoga, therapy, and more.
 
-( ◡̀_◡́)ᕤ
+Clients can:
+- Discover providers by service, location, and language
+- Book sessions directly via calendar interface
+- View and manage upcoming bookings
+- Save favorites and leave reviews
+
+Providers can:
+- Create and edit their service profile
+- Add available time slots
+- Manage bookings and view earnings
+- Communicate with clients
+
 ## Tech Stack
 
 - **Frontend & Backend**: React
