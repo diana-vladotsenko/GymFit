@@ -14,6 +14,7 @@ Providers can:
 - Communicate with clients
   
 ദ്ദി（• ˕ •マ.ᐟ
+[Prototype in figma](https://www.figma.com/proto/AXtAYovcewSI7BmzWOVyLq/Untitled?node-id=0-1&t=ke2asqaztJx0g8PE-1)
 
 ## Tech Stack
 
