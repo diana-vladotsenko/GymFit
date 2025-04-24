@@ -1,4 +1,4 @@
-# ( ◡̀_◡́)ᕤ  Wellness Session Booking Platform
+# ᕙ( ͡° ͜ʖ ͡°)ᕗ Wellness Session Booking Platform
 A full-stack web application for booking and managing wellness services such as massage, yoga, therapy, and more.
 
 Clients can:
@@ -12,6 +12,8 @@ Providers can:
 - Add available time slots
 - Manage bookings and view earnings
 - Communicate with clients
+  
+ദ്ദി（• ˕ •マ.ᐟ
 
 ## Tech Stack
 
