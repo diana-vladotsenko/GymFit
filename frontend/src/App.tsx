@@ -6,8 +6,6 @@ function App() {
 
   return (
     <>
-    <h1>jhi</h1>
-    <h2>Me</h2>
       <Routes>
         <Route path="/" element={<MainPage />} />
       </Routes>
